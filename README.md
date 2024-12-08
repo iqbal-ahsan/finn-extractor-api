@@ -11,3 +11,9 @@ A FastAPI-based web scraper that extracts vehicle details from a Finn.no ad page
   - **Drivstoff** (Fuel Type)
   - Includes the provided Finn code in the output.
 - Returns the extracted data as a JSON response.
+
+## Example with Postman
+
+Below is an example screenshot of a request made with Postman:
+
+![Postman Example](docs/images/postman_example.png)
